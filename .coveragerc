@@ -1,0 +1,5 @@
+[report]
+exclude_lines = 
+    setup: no cover
+    no data found
+    close db connection
