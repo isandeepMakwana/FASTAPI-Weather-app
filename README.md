@@ -117,7 +117,7 @@ When deploying to AWS, you can leverage:
 - AWS security features for protecting the API
 
 ### AWS Pipline Workflow
-![AWS Architecture](./.screenshots/aws.png)
+![AWS Architecture](./.screenshots/aws1.png)
 ## API Screenshots
 
 ### Weather Records
